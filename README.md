@@ -1,7 +1,7 @@
 # Customer-segmentation
 Segmenting customers through the application of clustering algorithms and association rule mining using Python
 
-1. Problem Formulation
+# 1. Problem Formulation
 Traditional customer segmentation uses simple statistical or rule-based techniques and is based on demographic information and basic purchase histories. These outdated methods frequently result in broad marketing initiatives that ignore personal preferences and ineffective customer segmentation. These strategies fall short in current market, where customers require tailored experiences, which highlights the need for cutting-edge AI solutions that can decipher complicated behaviors and facilitate more focused, successful marketing strategies.
 Businesses can maximize opportunities for sales and cultivate customer loyalty by customizing their offerings to meet the requirements and preferences of certain customers by utilizing data-driven insights. Businesses must use creative solutions to stay relevant and successful in the face of growing competition and customer expectation (Furrer, 2002) .Resolving this issue can result in an improved understanding of buyer preferences, allowing for more accurate targeting and effective resource use (Gandomi & Haider, 2015).
 To solve this problem, we can formulate it as an AI and analytics challenge by emphasizing segmenting customers through the application of clustering algorithms and association rule mining.
