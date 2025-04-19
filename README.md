@@ -1,4 +1,4 @@
-# Customer-segmentation
+## Customer-segmentation
 Segmenting customers through the application of clustering algorithms and association rule mining using Python
 
 # 1. Problem Formulation
