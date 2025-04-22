@@ -5,7 +5,7 @@ Segmenting customers through the application of clustering algorithms and associ
 
 [Open in Google Colab (Google Drive link)](https://colab.research.google.com/drive/1bCQI8kz6Gh9TQCH2Y48B-xoKrwY40pKK?usp=sharing)
 
-> 📌 Note: The notebook is large (151MB) and stored with Git LFS. It may take a moment to load in Colab.
+> 📌 Note: The notebook is large (151MB) and may take a moment to load in Colab.
 
 ## 1. Problem Formulation
 Traditional customer segmentation methods based on demographics and simple rules often lead to broad, ineffective marketing. In today’s data-rich and competitive market, businesses need AI-driven solutions that can uncover complex customer behaviors for more personalized engagement.
