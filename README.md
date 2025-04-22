@@ -1,5 +1,5 @@
 # Customer-segmentation
-Segmenting customers through the application of clustering algorithms and association rule mining using Python
+Segmenting customers through the application of clustering algorithms and association rule mining using Python.
 
 # View full notebook with outputs
 
