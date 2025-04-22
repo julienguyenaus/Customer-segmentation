@@ -1,6 +1,12 @@
 # Customer-segmentation
 Segmenting customers through the application of clustering algorithms and association rule mining using Python
 
+# Open the notebook in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julienguyenaus/Customer-segmentation/blob/main/Github%20Customer%20Segmentation%20using%20ML%20models.ipynb)
+
+> 📌 Note: The notebook is large (151MB) and stored with Git LFS. It may take a moment to load in Colab.
+
 ## 1. Problem Formulation
 Traditional customer segmentation methods based on demographics and simple rules often lead to broad, ineffective marketing. In today’s data-rich and competitive market, businesses need AI-driven solutions that can uncover complex customer behaviors for more personalized engagement.
 
