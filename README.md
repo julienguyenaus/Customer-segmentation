@@ -1,7 +1,7 @@
 # Customer-segmentation
 Segmenting customers through the application of clustering algorithms and association rule mining using Python
 
-# 🌐 View full notebook with outputs
+# View full notebook with outputs
 
 [Open in Google Colab (Google Drive link)](https://colab.research.google.com/drive/1bCQI8kz6Gh9TQCH2Y48B-xoKrwY40pKK?usp=sharing)
 
