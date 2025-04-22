@@ -30,6 +30,7 @@ This project uses publicly available datasets to ensure scalability and reproduc
 - Rich features such as timestamps, product categories, and customer IDs
 
 The Kaggle eCommerce Dataset for Predictive Marketing was chosen due to its completeness, accessibility, and relevance to the project's goals.
+
 📦 Dataset Link: [Kaggle - eCommerce Dataset 2023](https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023)
 
 ## 3.Methodlogy
